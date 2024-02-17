@@ -1,6 +1,3 @@
-# landgreen.github.io
-[https://landgreen.github.io/](https://landgreen.github.io/) is a public website written by Ross Landgreen.
-
-[physics:](https://landgreen.github.io/physics/) course notes for high school physics, with JavaScript simulations
-
-[n-gon:](https://landgreen.github.io/sidescroller/) 2-d physics sidescroller shooter
+# https://blobby-boi.github.io/n-gon/n-gon/
+## n-gon
+An alternative link to play n-gon!
